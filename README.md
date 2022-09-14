@@ -1,2 +1,2 @@
 # SMS_Service_AndriodApp
-Android app that sends a text message to your number. Java Application
+Android app that sends a broadcast text message to five different numbers. Java Application
